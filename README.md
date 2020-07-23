@@ -4,9 +4,15 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Thursday, July 23, 2020
+- Attended Power To Fly virtual Job Fair
+- Reading through Material UI docs and worked on appbar/header for new-bucket 
+
+---
 #### Wednesday, July 22, 2020
 - HackerRank problems Day 5 & 6 (Strings and Arrays)
-- Attended a React meetup for building UIs (Plasmic)
+- Attended a React meetup for building UIs (Plasmic). Signed up for Plasmic.
+- started "new-bucket," a style upgrade of "bucket-app" incorporating Material UI. Bootstrapped with create-react-app, built out server and Header component.
 
 ---
 #### Tuesday, July 21, 2020
