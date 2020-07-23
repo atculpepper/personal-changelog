@@ -7,6 +7,7 @@ This is a personal changelog of my updates. Not everything is code. I am followi
 #### Thursday, July 23, 2020
 - Attended Power To Fly virtual Job Fair
 - Reading through Material UI docs and worked on appbar/header for new-bucket 
+- Material UI theming: researching hosting custom fonts (webpack config)
 
 ---
 #### Wednesday, July 22, 2020
