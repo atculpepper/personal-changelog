@@ -7,12 +7,13 @@ This is a personal changelog of my updates. Not everything is code. I am followi
 #### Friday, July 24, 2020
 - Read through react-router-dom documentation
 - Work on setting up routes and protected routes on new-bucket
+- watch Material UI theme video (Myron's) 
 
 ---
 #### Thursday, July 23, 2020
 - Attended Power To Fly virtual Job Fair
 - Reading through Material UI docs and worked on appbar/header for new-bucket 
-- Material UI theming: researching hosting custom fonts (webpack config
+- Material UI theming: researching hosting custom fonts (webpack config)
 - Q&A with Braidy Merkle
 
 ---
