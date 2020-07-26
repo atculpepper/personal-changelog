@@ -7,7 +7,8 @@ This is a personal changelog of my updates. Not everything is code. I am followi
 #### Saturday, July 24, 2020
 - UX review of Landing Page for new Bucket (Alice Maglio)
 - Clean Lawrence apartment & move a load to KC
-- Hacker Rank Challenge #7 (Arrays)
+- HackerRank Challenge #7 (Arrays)
+- HackerRank challenge #8 (Hash Maps & Dictionaries)
 
 ---
 #### Friday, July 24, 2020
