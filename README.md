@@ -4,6 +4,11 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Saturday, July 24, 2020
+- Clean Lawrence apartment & move a load to KC
+- Hacker Rank Challenge #7 (Arrays)
+
+---
 #### Friday, July 24, 2020
 - Read through react-router-dom documentation
 - Work on setting up routes and protected routes on new-bucket
