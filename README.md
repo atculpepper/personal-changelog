@@ -5,7 +5,7 @@ This is a personal changelog of my updates. Not everything is code. I am followi
 
 ---
 #### Monday, July 26, 2020
--HackerRank challenge #9 (Recursion)
+- HackerRank challenge #9 (Recursion)
 
 ---
 #### Sunday, July 25, 2020
