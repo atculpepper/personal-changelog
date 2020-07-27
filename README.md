@@ -4,6 +4,14 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Monday, July 26, 2020
+-HackerRank challenge #9 (Recursion)
+
+---
+#### Sunday, July 25, 2020
+- Major cleanout of Lawrence apartment + return keys :)
+
+---
 #### Saturday, July 24, 2020
 - UX review of Landing Page for new Bucket (Alice Maglio)
 - Clean Lawrence apartment & move a load to KC
