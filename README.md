@@ -4,6 +4,11 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Tuesday, July 27, 2020
+- Section 1 of Modern React Bootcamp (Udemy)
+- Research JS methods
+
+---
 #### Monday, July 26, 2020
 - HackerRank challenge #9 (Recursion)
 - Studying sorting method in arrays
