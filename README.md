@@ -4,6 +4,12 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Wednesday, July 28, 2020
+- Registered for Flaticon for new-bucket design upgrade
+- Gained access to beta version of Plasmic (React UX software)
+- Worked on functional components in React 
+
+---
 #### Tuesday, July 27, 2020
 - Section 1 of Modern React Bootcamp (Udemy)
 - Research JS methods
