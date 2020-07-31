@@ -4,6 +4,10 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Friday, July 30, 2020
+- Adding functionality to movie-sagas project (Search bar, updating queries to include genres)
+
+---
 #### Thursday, July 29, 2020
 - Wrote an [article](https://medium.com/@anneculpepper_98676/lessons-from-monasticism-ba321e3c67cb) about Software Engineering and monasticism on Medium. 
 - Worked on developing Movie Sagas project
