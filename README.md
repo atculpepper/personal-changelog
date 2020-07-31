@@ -4,10 +4,16 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Thursday, July 29, 2020
+- Wrote an [article] (https://medium.com/@anneculpepper_98676/lessons-from-monasticism-ba321e3c67cb) about Software Engineering and monasticism on Medium. 
+- Worked on developing Movie Sagas project
+
+---
 #### Wednesday, July 28, 2020
 - Registered for Flaticon for new-bucket design upgrade
 - Gained access to beta version of Plasmic (React UX software)
-- Worked on functional components in React 
+- Worked on functional components in React
+- Landing page styling for new-bucket
 
 ---
 #### Tuesday, July 27, 2020
