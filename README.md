@@ -4,6 +4,18 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Monday, August 3 2020
+
+
+---
+#### Sunday, August 2 2020
+- 100 minutes of HackerRank challenges
+
+---
+#### Saturday, August 1 2020
+- UX meeting with Alice Maglio
+
+---
 #### Friday, July 30, 2020
 - Adding functionality to movie-sagas project (Search bar, updating queries to include genres)
 
