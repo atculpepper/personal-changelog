@@ -5,6 +5,8 @@ This is a personal changelog of my updates. Not everything is code. I am followi
 
 ---
 #### Monday, August 3 2020
+- 90 minute HackerRank Challenges
+- Styling of movie-sagas with Material UI
 
 
 ---
