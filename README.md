@@ -4,6 +4,11 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Tuesday, August 4 2020
+- movie-sagas Material UI styling (Search bar, back buttons)
+- React podcast 102: Eve and Alex (interview on their new book)
+
+---
 #### Monday, August 3 2020
 - 90 minute HackerRank Challenges
 - Styling of movie-sagas with Material UI
