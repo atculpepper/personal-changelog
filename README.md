@@ -7,6 +7,7 @@ This is a personal changelog of my updates. Not everything is code. I am followi
 #### Wednesday, August 5 2020
 - Alum Scrum with Minneapolis & KC cohorts
 - movie-sagas MoviesListItem styling (bringing in Material UI Card component)
+- Researching responsive design (Material UI breakpoints)
 
 ---
 #### Tuesday, August 4 2020
