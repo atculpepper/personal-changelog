@@ -4,9 +4,15 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Wednesday, August 5 2020
+- Alum Scrum with Minneapolis & KC cohorts
+- movie-sagas MoviesListItem styling (bringing in Material UI Card component)
+
+---
 #### Tuesday, August 4 2020
 - movie-sagas Material UI styling (Search bar, back buttons)
 - React podcast 102: Eve and Alex (interview on their new book)
+- Researching [Docker](https://github.com/PrimeAcademy/dockerizing-application) & Webpack
 
 ---
 #### Monday, August 3 2020
