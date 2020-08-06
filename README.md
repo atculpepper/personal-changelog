@@ -4,6 +4,11 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Thursday, August 6 2020
+- Listened to interview with Pariss Athena on Black Tech Pipeline
+- Material UI styling (Chip, ButtonIcons)
+
+---
 #### Wednesday, August 5 2020
 - Alum Scrum with Minneapolis & KC cohorts
 - movie-sagas MoviesListItem styling (bringing in Material UI Card component)
