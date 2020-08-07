@@ -4,6 +4,11 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Friday, August 7 2020
+- Researched application architecture for scaling enterprise apps
+- Styling Admin page of Piranesi Collection project
+
+---
 #### Thursday, August 6 2020
 - Listened to interview with Pariss Athena on Black Tech Pipeline
 - Material UI styling (Chip, ButtonIcons)
