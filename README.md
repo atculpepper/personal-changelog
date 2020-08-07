@@ -7,6 +7,7 @@ This is a personal changelog of my updates. Not everything is code. I am followi
 #### Thursday, August 6 2020
 - Listened to interview with Pariss Athena on Black Tech Pipeline
 - Material UI styling (Chip, ButtonIcons)
+- Piranesi Collection app :)
 
 ---
 #### Wednesday, August 5 2020
