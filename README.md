@@ -4,6 +4,10 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Tuesday, August 11 2020
+- AWS Bucket integration
+
+---
 #### Monday, August 10 2020
 - AWS Bucket integration troubleshooting
 - Conversation with Lizz Whitacre (Pawlytics)
