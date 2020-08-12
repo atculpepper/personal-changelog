@@ -4,6 +4,10 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Wednesday, August 12 2020
+- Postman route testing
+
+---
 #### Tuesday, August 11 2020
 - AWS Bucket integration
 
