@@ -4,6 +4,11 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Thursday, August 13 2020
+- Attended #GetHired Summit
+- Completed Post feature for adding new prints to collection
+
+---
 #### Wednesday, August 12 2020
 - Postman route testing
 
