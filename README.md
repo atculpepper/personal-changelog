@@ -4,6 +4,11 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Friday, August 14 2020
+- Worked on Ryan mixed media project
+- Pluralsight free weekend! NodeJS OAuth course
+
+---
 #### Thursday, August 13 2020
 - Attended #GetHired Summit
 - Completed Post feature for adding new prints to collection
