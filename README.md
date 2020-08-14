@@ -6,7 +6,7 @@ This is a personal changelog of my updates. Not everything is code. I am followi
 ---
 #### Friday, August 14 2020
 - Worked on Ryan mixed media project
-- Pluralsight free weekend! NodeJS OAuth course
+- Pluralsight free weekend! Started NodeJS OAuth course
 
 ---
 #### Thursday, August 13 2020
