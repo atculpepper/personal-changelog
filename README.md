@@ -4,6 +4,10 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Saturday, August 15 2020
+- UX meeting with Alice Maglio (logo & branding discussion)
+
+---
 #### Friday, August 14 2020
 - Worked on Ryan mixed media project
 - Pluralsight free weekend! Started NodeJS OAuth course
