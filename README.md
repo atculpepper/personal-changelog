@@ -4,6 +4,10 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Monday, August 17 2020
+- Conversation with illumisoft
+
+---
 #### Saturday, August 15 2020
 - UX meeting with Alice Maglio (logo & branding discussion)
 
