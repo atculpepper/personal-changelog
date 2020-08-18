@@ -4,6 +4,10 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Tuesday, August 18 2020
+- Material UI Box component styling
+
+---
 #### Monday, August 17 2020
 - Conversation with illumisoft
 
