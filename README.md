@@ -4,6 +4,10 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Wednesday, August 19 2020
+- Section 3.1 - 3.2 Udemy Modern React Bootcamp
+
+---
 #### Tuesday, August 18 2020
 - Material UI Box component styling
 
