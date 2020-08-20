@@ -4,6 +4,10 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Thursday, August 20 2020
+- Practice implementing boolean variables in React
+
+---
 #### Wednesday, August 19 2020
 - Section 3.1 - 3.2 Udemy Modern React Bootcamp
 
