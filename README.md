@@ -4,6 +4,10 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Friday, August 21 2020
+- Reading about how the virtual DOM works in React
+
+---
 #### Thursday, August 20 2020
 - Practice implementing boolean variables in React
 - Coding functionality into LandingPage of new-bucket
