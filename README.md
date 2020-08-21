@@ -6,6 +6,7 @@ This is a personal changelog of my updates. Not everything is code. I am followi
 ---
 #### Thursday, August 20 2020
 - Practice implementing boolean variables in React
+- Coding functionality into LandingPage of new-bucket
 
 ---
 #### Wednesday, August 19 2020
