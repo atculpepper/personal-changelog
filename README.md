@@ -5,7 +5,8 @@ This is a personal changelog of my updates. Not everything is code. I am followi
 
 ---
 #### Saturday, August 22 2020
-- Wrapped up Section 4 of Modern React Bootcamp 
+- Wrapped up Section 4 of Modern React Bootcamp
+- Section 1 of Mastering Test Driven Development (Udemy course)
 
 ---
 #### Friday, August 21 2020
