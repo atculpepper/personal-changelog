@@ -4,6 +4,10 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Saturday, August 22 2020
+- Wrapped up Section 4 of Modern React Bootcamp 
+
+---
 #### Friday, August 21 2020
 - Reading about how the virtual DOM works in React
 - Modern React Bootcamp 4.1 - 4.5 (Udemy)
