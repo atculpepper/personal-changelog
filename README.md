@@ -6,6 +6,7 @@ This is a personal changelog of my updates. Not everything is code. I am followi
 ---
 #### Sunday, August 23 2020
 - Code challenge in Java (:0 !!)
+- Checkout out new hiking spot in Parksville, MO
 
 ---
 #### Saturday, August 22 2020
