@@ -4,6 +4,10 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Sunday, August 23 2020
+- Code challenge in Java (:0 !!)
+
+---
 #### Saturday, August 22 2020
 - UX meeting with Alice Maglio
 - Wrapped up Section 4 of Modern React Bootcamp
