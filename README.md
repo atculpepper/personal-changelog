@@ -5,6 +5,7 @@ This is a personal changelog of my updates. Not everything is code. I am followi
 
 ---
 #### Tuesday, August 25 2020
+- Attended LaunchCode's Tech Spectrum meetup
 - 3 hours of code challenges! Coderbyte. Algorithms in JS and a React project using hooks
 - Started split stretch program
 
