@@ -4,6 +4,17 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Tuesday, August 25 2020
+- 3 hours of code challenges! Coderbyte. Algorithms in JS and a React project using hooks
+- Started split stretch program
+
+---
+#### Monday, August 24 2020
+- Test Driven Development practice
+- Zoom call for father's 60th birthday
+
+
+---
 #### Sunday, August 23 2020
 - Code challenge in Java (:0 !!)
 - Checkout out new hiking spot in Parksville, MO
