@@ -4,6 +4,12 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Wednesday, August 26 2020
+- Attended Prime Alum Scrum
+- Attended talk from Mintbean
+- practice React hooks by working on React Phone Book
+
+---
 #### Tuesday, August 25 2020
 - Attended LaunchCode's Tech Spectrum meetup
 - 3 hours of code challenges! Coderbyte. Algorithms in JS and a React project using hooks
