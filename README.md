@@ -7,7 +7,7 @@ This is a personal changelog of my updates. Not everything is code. I am followi
 #### Wednesday, August 26 2020
 - Attended Prime Alum Scrum
 - Attended talk from Mintbean
-- practice passing data using React hooks by working on [React Phone Book] (https://codesandbox.io/s/recursing-saha-qsk3x?file=/src/RenderTableData.js)
+- practice passing data using React hooks by working on [React Phone Book](https://codesandbox.io/s/recursing-saha-qsk3x?file=/src/RenderTableData.js)
 - Conversation with NorthPoint Development
 - Attended React meetup
 
