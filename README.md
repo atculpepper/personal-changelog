@@ -3,7 +3,7 @@
 ### Overview
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
---
+---
 #### Friday, August 28 2020
 - MyCare app research
 - Deep dive into Ocracoke Island language and culture
@@ -11,7 +11,7 @@ This is a personal changelog of my updates. Not everything is code. I am followi
 - Commitment to work on technical interview skills :) Get back on HackerRank!
 - RIP Jimmy Joe McNally 
 
---
+---
 #### Thursday, August 27 2020
 - Beginning MyCare app research
 - Irish language 1.1 - 1.5 from Future Learn
