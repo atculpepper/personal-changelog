@@ -3,6 +3,14 @@
 ### Overview
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
+--
+#### Thursday, August 27 2020
+- Beginning MyCare app research
+- Irish language 1.1 - 1.5 from Future Learn
+- Reading about Gulluh Geechee community and language
+- Conversation with Clarity Ventures
+
+
 ---
 #### Wednesday, August 26 2020
 - Attended Prime Alum Scrum
