@@ -4,6 +4,15 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Sunday, August 30, 2020
+- Technical interview meeting with Cameron Fitz
+
+---
+#### Saturday, August 29 2020
+- Home improvement :)
+- UX meeting with Alice Maglio
+
+---
 #### Friday, August 28 2020
 - MyCare app research
 - Deep dive into Ocracoke Island language and culture
