@@ -3,8 +3,14 @@
 ### Overview
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
+--- 
+#### Monday, August 31 2020
+- Created flashcards on Quizlet for tech questions
+- Working on selecting and filtering arrays using Chrome dev tools on websites
+- Research into best practices for file structure for technical documentation re: app development
+
 ---
-#### Sunday, August 30, 2020
+#### Sunday, August 30 2020
 - Technical interview meeting with Cameron Fitz
 
 ---
