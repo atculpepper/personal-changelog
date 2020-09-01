@@ -3,6 +3,10 @@
 ### Overview
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
+---
+#### Tuesday, September 1 2020
+- Learning about class constructors and creating methods within class constructors
+
 --- 
 #### Monday, August 31 2020
 - Created flashcards on Quizlet for tech questions
