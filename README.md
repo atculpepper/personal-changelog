@@ -6,6 +6,8 @@ This is a personal changelog of my updates. Not everything is code. I am followi
 ---
 #### Wednesday, September 2 2020
 - Practice tech interview with Cameron Fitz (Codesmith)
+- Building out Quizlet set for tech interview questions
+- Downloaded the Codecademy app for practicing coding while walking
 
 ---
 #### Tuesday, September 1 2020
