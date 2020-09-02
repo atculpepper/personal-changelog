@@ -4,8 +4,13 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Wednesday, September 2 2020
+- Practice tech interview with Cameron Fitz (Codesmith)
+
+---
 #### Tuesday, September 1 2020
 - Learning about class constructors and creating methods within class constructors
+- Started Codecademy's algorithms track (Pro account trial :) )
 
 --- 
 #### Monday, August 31 2020
