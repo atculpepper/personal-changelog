@@ -4,10 +4,17 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Thursday, September 3 2020
+- Technical interview #1 with NorthPoint Development
+- illumisoft work
+- Invented recipe for "power cookies" 
+
+---
 #### Wednesday, September 2 2020
 - Practice tech interview with Cameron Fitz (Codesmith)
 - Building out Quizlet set for tech interview questions
 - Downloaded the Codecademy app for practicing coding while walking
+- Practiced split stretches
 
 ---
 #### Tuesday, September 1 2020
