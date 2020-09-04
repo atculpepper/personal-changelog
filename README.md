@@ -4,6 +4,14 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Friday, September 4 2020
+- Round 2 technical interview with NorthPoint Development (nested loops)
+- Mac disc cleanup & file reorganization (removed 18 gigs)
+- 4 hours illumisoft (PowerPoint tools to create visual file hierarchy)
+- Uncle Jimmy Joe funeral -- unable to attend due to covid-19 :(
+
+
+---
 #### Thursday, September 3 2020
 - Technical interview #1 with NorthPoint Development
 - illumisoft work
