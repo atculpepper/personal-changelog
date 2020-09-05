@@ -4,6 +4,10 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Saturday, September 5 2020
+- Lyft assessment on Byteboard, vanilla JS API integrations to two endpoints, returning a place and an image of said place
+
+---
 #### Friday, September 4 2020
 - Round 2 technical interview with NorthPoint Development (nested loops)
 - Mac disc cleanup & file reorganization (removed 18 gigs)
