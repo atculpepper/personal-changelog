@@ -4,6 +4,12 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Monday, September 7 2020
+- 4 hours of illumisoft document analysis
+- Using fetch method for vanilla JS project
+- Read [Understanding the DOM](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
+
+---
 #### Sunday, September 6 2020
 - Start building a web app that uses vanilla JS to fetch from external API
 
