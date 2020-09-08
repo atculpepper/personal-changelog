@@ -3,6 +3,11 @@
 ### Overview
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
+___
+#### Tuesday, September 8 2020
+- 4 hours illumisoft (analyzing estimates)
+- Started CSS master class on SkillShare
+
 ---
 #### Monday, September 7 2020
 - 4 hours of illumisoft document analysis
