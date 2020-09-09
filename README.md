@@ -3,7 +3,12 @@
 ### Overview
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
-___
+---
+#### Wednesday, September 9 2020
+- 1 hr React hooks review with Cameron
+- Project architecture Alum Scrum with Scott Bromander
+
+---
 #### Tuesday, September 8 2020
 - 4 hours illumisoft (analyzing estimates)
 - Started CSS master class on SkillShare
