@@ -4,6 +4,18 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Friday, September 11, 2020
+- 1 hr React hooks pair programming with Cameron
+- 4 hours illumisoft -- understanding parabolic estimation models
+- Understanding CMH scope and vision
+
+---
+#### Thursday, September 10 2020
+- Conversation with Clarity Ventures (CSS, JS)
+- 4 hours illumisoft
+- Continue with CSS masterclass
+
+---
 #### Wednesday, September 9 2020
 - 1 hr React hooks review with Cameron
 - Project architecture Alum Scrum with Scott Bromander
