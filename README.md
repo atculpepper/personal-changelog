@@ -8,6 +8,7 @@ This is a personal changelog of my updates. Not everything is code. I am followi
 - 1 hr React hooks pair programming with Cameron
 - 4 hours illumisoft -- understanding parabolic estimation models
 - Understanding CMH scope and vision
+- Signed up for 14 day free yoga
 
 ---
 #### Thursday, September 10 2020
