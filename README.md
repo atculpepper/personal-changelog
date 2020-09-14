@@ -4,7 +4,18 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
-#### Friday, September 11, 2020
+#### Monday, September 14, 2020
+- Apprentice interview with LaunchCode
+- illumisoft estimation analysis
+
+---
+#### Saturday, September 12 2020
+- 1 hour UX meeting Alice Maglio -- talking about personal branding and portfolio website design
+- 1 hour React hooks overview with Cameron`
+- hike
+
+---
+#### Friday, September 11 2020
 - 1 hr React hooks pair programming with Cameron
 - 4 hours illumisoft -- understanding parabolic estimation models
 - Understanding CMH scope and vision
