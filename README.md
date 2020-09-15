@@ -4,6 +4,11 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Tuesday, September 15, 2020
+- Started applying new file structure to illumisoft files
+- Started JPMorgan remote internship
+
+---
 #### Monday, September 14, 2020
 - Apprentice interview with LaunchCode
 - illumisoft estimation analysis
