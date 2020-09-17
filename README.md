@@ -3,8 +3,15 @@
 ### Overview
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
+--- 
+#### Wednesday, September 16 2020
+- Started developing illumisoft PowerPoint presentation and moved deadline forward a couple of days
+- Attended IBM lab on moving requirements from Excel to Product Management Software that shows file connectedness
+- Offer for a round table interview with Clarity Ventures :)
+- Developed plan for High Holiday services -- partially in person (Taschlich,) partially on Zoom
+
 ---
-#### Tuesday, September 15, 2020
+#### Tuesday, September 15 2020
 - Started applying new file structure to illumisoft files
 - Started JPMorgan remote internship
 
