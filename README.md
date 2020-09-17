@@ -3,6 +3,11 @@
 ### Overview
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
+---
+#### Thursday, September 17 2020
+- 6:30 am walk :)
+- React/Slate hooks project with Cameron
+
 --- 
 #### Wednesday, September 16 2020
 - Started developing illumisoft PowerPoint presentation and moved deadline forward a couple of days
