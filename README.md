@@ -4,6 +4,16 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Saturday, September 19 2020
+- Celebrated Rosh Hashanah morning 
+- Angular.JS tour of heroes tutorial in the afternoon
+
+---
+#### Friday, September 18 2020
+- present findings to illumisoft
+- went to Julep in Westport :)
+
+---
 #### Thursday, September 17 2020
 - 6:30 am walk :)
 - React/Slate hooks project with Cameron
