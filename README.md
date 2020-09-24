@@ -4,6 +4,31 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Thursday, September 23 2020
+- First Meeting with illumisoft
+
+---
+#### Wednesday, September 22 2020
+- 2 hours pair programming with Cameron
+- Accepted an offer from illumisoft as Product Manager/Agile Scrum Master
+- Researching Agile Scrum philosophy and methodology
+- Celebrated an end to my 4 month job search with Ragazza's!
+
+---
+#### Tuesday, September 21 2020
+- Round table interview with Clarity Ventures
+
+---
+#### Monday, September 20 2020
+- E-Commerce app in AngularJS
+
+---
+#### Sunday, September 20 2020
+- Tashlich in the park
+- Explored Kaufmann gardens
+- Worked on an e-commerce app with AngularJS
+
+---
 #### Saturday, September 19 2020
 - Celebrated Rosh Hashanah morning 
 - Angular.JS tour of heroes tutorial in the afternoon
