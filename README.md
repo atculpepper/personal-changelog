@@ -4,6 +4,10 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Friday, September 24 2020
+- Started Lynda.com's [Agile Scrum Project Manager](https://www.lynda.com/Project-Management-tutorials/Scrum/761929/5011091-4.html) learning path
+
+---
 #### Thursday, September 23 2020
 - First Meeting with illumisoft
 
