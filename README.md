@@ -6,6 +6,9 @@ This is a personal changelog of my updates. Not everything is code. I am followi
 ---
 #### Friday, September 24 2020
 - Started Lynda.com's [Agile Scrum Project Manager](https://www.lynda.com/Project-Management-tutorials/Scrum/761929/5011091-4.html) learning path
+- Started a CompSci [course](https://www.classcentral.com/course/build-a-computer-3234) on building a modern computer
+- Researching queues as data structures
+- Researching app data storage (caches, cloud storage, centralized databases)
 
 ---
 #### Thursday, September 23 2020
