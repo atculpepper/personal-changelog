@@ -4,6 +4,11 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Saturday, September 25 2020
+- Completed Agile Scrum Project Management course
+- Explored class inheritance in JS
+
+---
 #### Friday, September 24 2020
 - Started Lynda.com's [Agile Scrum Project Manager](https://www.lynda.com/Project-Management-tutorials/Scrum/761929/5011091-4.html) learning path
 - Started a CompSci [course](https://www.classcentral.com/course/build-a-computer-3234) on building a modern computer
