@@ -4,7 +4,12 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Sunday, September 26 2020
+- Typescript troubleshooting with Cameron
+
+---
 #### Saturday, September 25 2020
+- UX meeting with Alice Maglio
 - Completed Agile Scrum Project Management course
 - Explored class inheritance in JS
 
