@@ -4,6 +4,15 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Tuesday, September 28 2020
+- Completed 1/10 in Agile Project Management course -- obtained a certificate
+- Started Excel essential training course
+
+---
+#### Monday, September 27 2020
+- First day of work :)
+
+---
 #### Sunday, September 26 2020
 - Typescript troubleshooting with Cameron
 
