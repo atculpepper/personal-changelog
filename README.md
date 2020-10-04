@@ -4,6 +4,24 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Sunday, October 4 2020
+- Learn about iOS and Android development environments through App Center
+- Bake apple pie
+
+---
+#### Saturday, October 3 2020
+- Apple Picking
+- Pumpkin Picking
+- UI/UX interview
+- Software Dev meetup
+
+---
+#### Friday, October 2 2020
+
+---
+#### Thursday, October 1 2020
+
+---
 #### Wednesday, September 29 2020
 - Wireframing a new module by hand :)
 - Continuing Excel fundamentals training
