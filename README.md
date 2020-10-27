@@ -4,6 +4,11 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Tuesday, October 27 2020
+- Downloaded VSC onto new Lenovo laptop
+
+
+---
 #### Sunday, October 4 2020
 - Learn about iOS and Android development environments through App Center
 - Bake apple pie
