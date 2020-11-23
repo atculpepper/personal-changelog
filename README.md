@@ -4,6 +4,11 @@
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
 ---
+#### Sunday, November 22 2020
+- Chapter 1 of Code Complete 2
+- Sentry.io bug tracking
+
+---
 #### Tuesday, October 27 2020
 - Downloaded VSC onto new Lenovo laptop
 
