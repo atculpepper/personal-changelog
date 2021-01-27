@@ -3,6 +3,18 @@
 ### Overview
 This is a personal changelog of my updates. Not everything is code. I am following Scott Bromander's example to create visability around my behaviors and habits.
 
+#### Wednesday, January 27 2021
+
+It has been a few months since I last updated this changelog, and I haven't pushed any new code. It's a strange feeling - you work so hard on something, and it fades so quickly. I haven't worked in React in a long time. However, I haven't done 0 on the tech front. In the meantime I have:
+
+- learned to create clickable prototypes and high fidelity screens using Figma
+- explored Power BI and Visio for visualizing processes and charting data
+- Gotten involved in IMU development, even started coding in IMU myself
+
+I want to get back into coding in React. I want to continue to build out my skills using Postgres, Express, React, and NodeJS. I also want to learn some Python to write a CSV reader that visualizes and interprets raw accelerometer, gyroscope, and magnometer data into pitch roll and yaw and analyzes it. I also want to develop an internship program to pay it forward.
+
+I continue to learn and grow. I miss the green squares on my GitHub. But that is one metric of many. Keep moving forward folx :)
+
 ---
 #### Sunday, November 22 2020
 - Chapter 1 of Code Complete 2
